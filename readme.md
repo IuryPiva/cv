@@ -31,11 +31,13 @@ JS I'm more often than not learning and using new languages and technologies.
 - NoSql databases: GraphQL, document based, key-value based, collection based,
   mongodb, dynamodb, etc
 - SQL databases: PostgreSQL, MySQL, SQL Server.
+- State management: Redux, MOBX, custom store designing.
 - Memory, File and realtime databases too such as: Redis, sqlite, DsDDB
 - Concepts: canvas, SSR, data structures, algorithms, Sockets, Streams, Buffers,
   parsers/compilers, web protocols, page load times, perfomance and profilers,
   SEO, caching strategies, memory management, iterators, serverless
-- Frameworks and libs: Angular, React, Vue, Webpack, Babel, lodash,
+- Frameworks and libs: Angular, React, Vue, Webpack, Babel, lodash
+- Web3: Completed the cryptozombies NFT tutorial (lol) with Solidity and Ethereum blockchain
 
 And I follow **Atwood’s Law**:
 
@@ -59,15 +61,22 @@ way I bring up my doubts, questions and uncertanties the clearest way possible.
 I'm a very energetic and fast-paced person, I get things done, even if that
 means not getting it right on the first try.
 
+## Education
+
+> ##### 2015 -> 2019 (Unfinished*)
+> #### Computer Science at UNESC
+
+\* I had to move out of the city and had to stop at the last semester.
+
 ## Experience
 
-> ##### 2021 -> 2022
+> ##### 2021 -> 2022 (current)
 >
 > #### Makepath
 >
 > ##### Full stack dev
 >
-> Bokeh and SmartKX
+> Worked on a [CZI](https://chanzuckerberg.com) grant for the open source data visualization library `Bokeh` that added [LaTeX capabilities to the library](https://blog.bokeh.org/bokeh-2-4-6f8a842dfb4f). The tech stack was TypeScript and Python and the code quality, tests and CI/CD of the whole repo was flawless! An another awesome project I'm working on is an Investment Advisor platform using Vue on the front-end, Nodejs on the main api and Deno for the integrations.
 
 > ##### 2020 -> 2021
 >
@@ -75,10 +84,7 @@ means not getting it right on the first try.
 >
 > ##### Front-end dev
 >
-> Worked with Beacon BLE proximity technology, design and architeture of the
-> whole mobile applications with android and IOs native and React Native hybrid
-> technologies, as well as the servers (AWS, Terraform and NodeJS) and
-> dashboards (React).
+> Worked on a huge governmental system with complex integrations and multiple developers. I helped develop a central React design system that was used in all projects but mostly hands down front-end work.
 
 > ##### 2019 -> 2020
 >
