@@ -18,11 +18,11 @@ JS I'm more often than not learning and using new languages and technologies.
 
 - TypeScript
 - Git
-- CSS
-- Runtimes: Node.js and Deno
+- HTML & CSS
+- JS Runtimes: Node.js and Deno
 - Other programming languages: Ruby, Python, Rust
 - Shell: Bash, Zsh
-- Testing tools: Cypress, Jest, Deno.test, my own test frameworks, etc
+- Testing tools: Cypress, Jest, Deno.test, Playwright my own test frameworks, etc
 - Containers and daemons: Docker, Caprover, pm2
 - Server configuration: Linux servers, nginx, ssh,
 - Cloud providers: AWS, GCP, Azure, IBM Cloud, Deno Deploy, Heroku, Digital
